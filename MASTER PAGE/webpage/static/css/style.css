@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+#myDiv {
+  margin: 0 auto;
+  border: 1px solid black;
+  height: 85vh;
+  min-height: 300px;
+}
